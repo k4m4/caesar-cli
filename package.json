@@ -1,0 +1,38 @@
+{
+  "name": "caesar-cli",
+  "version": "1.0.0",
+  "description": "Break rotational letter substitution (ROT), right from your terminal.",
+  "license": "MIT",
+  "repository": "k4m4/caesar-cli",
+  "author": {
+    "name": "Nikolaos Kamarinakis",
+    "url": "https://nikolaskama.me",
+    "email": "nikolaskam@gmail.com"
+  },
+  "main": "cli.js",
+  "bin": {
+    "caesar": "cli.js",
+    "rot": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "get-stdin": "^6.0.0",
+    "meow": "^4.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "execa": "^0.10.0"
+  },
+  "keywords": [
+    "caesar",
+    "rot",
+    "cipher",
+    "solver",
+    "ctf"
+  ]
+}
