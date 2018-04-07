@@ -1,6 +1,6 @@
 # caesar-cli [![Build Status](https://travis-ci.org/k4m4/caesar-cli.svg?branch=master)](https://travis-ci.org/k4m4/caesar-cli)
 
-> Break rotational letter substitution (ROT), right from your terminal.
+> Break rotational letter substitution (ROT) encoded text, right from your terminal.
 
 ---
 
