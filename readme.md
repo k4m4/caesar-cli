@@ -27,6 +27,12 @@
     unicorn
     ~ ❯❯❯ caesar 'omcha mbczn 6' -n 6
     using shift 6
+    ~ ❯❯❯ caesar xliwigvixtewwtlvewimwewtlonvlbuuihprubmdpcomvxkjxkd -b
+    ROT-1: ymjxjhwjyufxxumwfxjnxfxumpowmcvvjiqsvcneqdpnwylkyle
+                              ...
+    ROT-22: thesecretpassphraseisasphkjrhxqqedlnqxizlykirtgftgz
+                              ...
+    ROT-25: wkhvhfuhwsdvvskudvhlvdvsknmukatthgoqtalcobnluwjiwjc
 ```
 
 
