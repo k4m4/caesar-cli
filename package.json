@@ -1,6 +1,6 @@
 {
   "name": "caesar-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Break rotational letter substitution (ROT) encoded text, right from your terminal.",
   "license": "MIT",
   "repository": "k4m4/caesar-cli",
